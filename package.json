@@ -1,0 +1,15 @@
+{
+    "name": "template-engine-ejs-news",
+    "version": "1.0.0",
+    "description": "day78_lev3_1_express.js-template-Engine-News",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Klaus Nienhaus",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.1"
+    }
+}

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 30px;
+    gap: 30px;
+}
+
+article {
+    width: 250px;
+}
+article img {
+    width: 100%;
+}
+
+article div {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
